@@ -1,5 +1,5 @@
 # Moduł testy
 
-Odpowiedzialny: Piotrek14689
+Odpowiedzialny: Erwin676767
 Stan: GOTOWY
-Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
+Opis zmiany: Super testy.
