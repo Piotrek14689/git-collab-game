@@ -2,4 +2,4 @@
 
 Odpowiedzialny: Erwin676767
 Stan: GOTOWY
-Opis zmiany: Dodano walidacje danych wejściowych
+Opis zmiany: Dodano walidacje danych wejściowych, usunięto błąd.
