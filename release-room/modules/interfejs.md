@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
+Odpowiedzialny: Erwin676767
+Stan: GOTOWY
 Opis zmiany: BRAK
