@@ -2,5 +2,5 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: WDRAŻAMY W PONIEDZIAŁEK
+Decyzja wdrożeniowa: WDRAŻAMY W PIĄTEK
 Koordynator: Piotrek14689
